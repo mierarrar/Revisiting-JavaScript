@@ -17,4 +17,4 @@ console.log(typeof num);
 // Values that are intuitively “empty”, like 0, an empty string, null, undefined, and NaN, become false.
 // Other values become true.
 
-console.log( Boolean("") ); // false
+console.log( Boolean("") );
